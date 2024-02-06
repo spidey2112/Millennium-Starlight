@@ -4,6 +4,4 @@ Millennium Starlight uses Symbolic dice (i.e dice with symbols on them instead o
 
 ### Hit & Miss
 
-### Push & Slip
-
-### Boost & Break
+### Push & Break
