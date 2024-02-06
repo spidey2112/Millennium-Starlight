@@ -1,7 +1,16 @@
-# Dice
-Millennium Starlight uses Symbolic dice (i.e dice with symbols on them instead of numbers)
-## Symbols
+# Symbols
 
-### Hit & Miss
+## Hit & Miss
+Hits(add hit symbol) & Misses(add miss symbol) measure how succesful the roll is, so if there are more Hits than Misses, the check succeedes; more Misses than Hits and it fails, a tie is often neutral, but might count as a success or fail depending on context
 
-### Push & Break
+## Push & Break
+Pushes(add push symbol) & Breaks(add break symbol) measure good or bad things that are don't affect the success of the check, so more Pushes than Breaks would make something good happen *even if the check fails* (A "no but" in improv terms). Similarly, rolling more Breaks than Pushes will make something bad happen *regardless of the number of Hit & Misses*
+
+## Table Of Improv Terms
+
+| Hits & Misses | Pushes & Breaks | Improv |
+| --- | --- | --- |
+| Hit | Push | Yes And |
+| Hit | Break | Yes But |
+| Miss | Push | No But |
+| Miss | Break | No And |
