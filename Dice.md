@@ -14,3 +14,13 @@ Pushes(add push symbol) & Breaks(add break symbol) measure good or bad things th
 | Hit | Break | Yes But |
 | Miss | Push | No But |
 | Miss | Break | No And |
+
+# Dice
+
+## (name) die
+
+desc
+
+| Face Number | Symbols |
+|---|---|
+|   |   |
